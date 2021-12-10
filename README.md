@@ -5,5 +5,6 @@ ML Powered App to assist farmers in crop disease detection and alerts.
 
 ## Made by: 
 ### Ananya Redhu
-### Vyom Gupta
 ### Vedant Modi
+### Vyom Gupta
+
