@@ -14,9 +14,9 @@ ML Powered App to assist farmers in crop disease detection and alerts.
 
 Multi-Class Image classifier Built on PyTorch framework using CNN architecture. Currently Project Detects 17 States of disease in 4 plants ( Aiming Kerala State ) namely Cherry, Pepper, Potato and tomato.
 
-## Framework : PyTorch
-## Architecture : Convolutional Neural Networks
-## Validation Accuracy : 77.7%
+- Framework : PyTorch
+- Architecture : Convolutional Neural Networks
+- Validation Accuracy : 77.7%
 
 
 # Features
